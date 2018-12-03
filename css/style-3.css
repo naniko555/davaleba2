@@ -1,0 +1,55 @@
+.navigation{
+	margin-left: 25px;
+}
+.navigation-ul{
+	display: inline-block;
+
+}
+.navigation-ul li{
+display: inline-block;
+color: blue;
+margin: 0 20px 0 20px;
+}
+
+.navigation-ul li:nth-child(1){
+	color: red;
+}
+
+.navigation-img{
+	display: inline-block;
+	vertical-align: -34%;
+}
+
+
+/*wrapper*/
+
+.wrapper{
+	margin-top: 50px;
+	margin-left:25px; 
+
+}
+.wrapper-textcontainer{
+	display: inline-block;
+}
+.wrapper-textcontainer-info{
+color: #838384;
+margin-right: 20px;
+}
+.wrapper-textcontainer-infotext{
+	font-weight: bold;
+}
+.wrapper img{
+	vertical-align: top;
+}
+
+
+/*ქვედა იკონები*/
+.icon-wrappers{
+	margin-top: 20px; 
+}
+.icon-wrappers p{
+display: inline-block;
+font-size: 30px;
+vertical-align: 28%;
+
+}
